@@ -9,7 +9,7 @@ public class GitDemoApplication {
     public static void main(String[] args) {
         System.out.println("jjjj");
         System.out.println("pppp");
-        System.out.println("hot-fix 分支");
+        System.out.println("master 分支1");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
